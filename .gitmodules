@@ -1,3 +1,6 @@
 [submodule "gau_to_do_list_fe"]
 	path = gau_to_do_list_fe
 	url = https://github.com/tnqbao/gau-to-do-list-fe.git
+[submodule "gau_to_do_list_be"]
+	path = gau_to_do_list_be
+	url = https://github.com/tnqbao/gau_to_to_list_be.git
